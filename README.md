@@ -8,4 +8,5 @@
 - GET /api/categories returns the list of unique categories on your catalog
 
   ---
-  ## competency_report.py
+  
+  ## The endpoints are inside competency_report.py
