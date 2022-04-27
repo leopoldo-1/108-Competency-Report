@@ -6,3 +6,6 @@
 - GET /api/catalog/cheapest endpoint that returns the cheapest product from the catalog
 - GET /api/catalog/<category> returns the products that belongs to a specified category
 - GET /api/categories returns the list of unique categories on your catalog
+
+  ---
+  ## competency_report.py
